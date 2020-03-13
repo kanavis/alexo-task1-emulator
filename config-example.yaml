@@ -1,0 +1,17 @@
+devices:
+  mass1:
+    type: mass
+    host: 127.0.0.1
+    port: 8001
+  end1:
+    type: end
+    host: 127.0.0.1
+    port: 8002
+  temp1:
+    type: temperature
+    host: 127.0.0.1
+    port: 8003
+  keyboard1:
+    type: keyboard
+    host: 127.0.0.1
+    port: 8004
