@@ -1,6 +1,5 @@
 """ Basic device classes """
 
-import json
 import logging
 import os
 import struct
